@@ -15,7 +15,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS.git",
-            from: "9.0.0")
+            from: "9.0.1")
     ],
     targets: [
         .target(
